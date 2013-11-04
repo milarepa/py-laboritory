@@ -1,15 +1,13 @@
 #! /usr/bin/python
 def median(x):
-  
   lst = sorted(x)
   length = len(lst)
-  m = 0
-  print lst
+    
   if length % 2 == 0:
-    n = length // 2
-    m = (lst[n] + lst[n - 1]) / 2.0
-    return m
+    a = lst[length / 2 - 1]
+    b = lst[length / 2]
+    return (a + b) / 2.0
   else:
-    m_index = length // 2
-    return lst[m_index]
+    a = lst[int(length / 2.0 - 0.5)]
+    return a
     
