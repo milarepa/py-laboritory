@@ -1,5 +1,5 @@
 #### ++++++++++++++++++++++++++++++++++++++++
-#### PYTHON PROGRAMMING EXCERSIZES - Academic
+#### PYTHON PROGRAMMING EXERCISES - Academic
 #### ++++++++++++++++++++++++++++++++++++++++
 
 This is just a collection of academic programming examples in python.
